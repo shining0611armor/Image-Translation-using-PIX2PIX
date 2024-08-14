@@ -6,3 +6,5 @@ This section provides an in-depth exploration of Pix2Pix, a type of conditional 
 ![image](https://github.com/user-attachments/assets/f8c2427b-d682-4bf1-bc9f-5397afa0b19c)
 
 ![image](https://github.com/user-attachments/assets/6a23a3c7-352b-41f1-a5fb-3d6f184aafbb)
+![first](https://github.com/shining0611armor/Image-Translation-using-PIX2PIX/raw/main/images/first dataset.png)
+![second](https://github.com/shining0611armor/Image-Translation-using-PIX2PIX/raw/main/images/second dataset.png)
